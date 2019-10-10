@@ -7,4 +7,4 @@ long term: connect it to the photon network
 
 ## Section of Cats
 
-![cat 1](http://www.cat2see.com/wp-content/uploads/2016/02/maxresdefault.jpgCHange
+![cat 1](http://www.cat2see.com/wp-content/uploads/2016/02/maxresdefault.jpg[cat 1]
