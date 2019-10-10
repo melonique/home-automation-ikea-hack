@@ -1,0 +1,24 @@
+{
+  "name": "home-automation-ikea-hack",
+  "version": "1.0.0",
+  "description": "wip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melonique/home-automation-ikea-hack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melonique/home-automation-ikea-hack/issues"
+  },
+  "homepage": "https://github.com/melonique/home-automation-ikea-hack#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
